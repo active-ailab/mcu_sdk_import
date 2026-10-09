@@ -1,0 +1,5 @@
+out/
+*.xlsx
+*_draft.md
+*_sheets.json
+*_publish.md
